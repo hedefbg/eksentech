@@ -1,0 +1,2 @@
+# eksentech
+loyalty deneme
