@@ -1,0 +1,13 @@
+package.json
+shopify.app.toml
+env.example
+gitignore
+README.md
+tsconfig.json
+prisma/schema.prisma
+app/db.server.ts
+app/routes/app._index.tsx
+app/routes/app.rewards.tsx
+app/routes/webhooks.tsx
+extensions/customer-account/shopify.extension.toml
+extensions/customer-account/src/index.jsx
